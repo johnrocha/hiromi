@@ -295,10 +295,16 @@ a:hover{
 /* Banner section */
 
 .banner{
-	background:url(../images/bannerbg.jpg) no-repeat;
-	position:relative;
-	background-size:cover;
+	background:url(../images/imgindex1.jpg) no-repeat;
+	width: 100%;
+	height: auto;
 }
+.responsive{
+	width: 100%;
+	height: auto;
+}
+
+
 
 .main_banner_area{
 	padding:300px 0px;
@@ -308,6 +314,10 @@ a:hover{
 .single_banner_text p{
 	font-size:40px;
 	color:#3c3c3c;
+}
+
+.p_title{
+	text-shadow: 2px 2px gold;
 }
 
 
